@@ -2,6 +2,10 @@
 A C4.5 Decision Tree python implementation with validation, pruning, and attribute multi-splitting
 Contributors: Ryan Madden and Ally Cody
 
+## Changes
+
+* <b>2018-08-15</b>  python3 code and PEP8 style
+
 ## Requirements
 python 2.7.6 [Download](https://www.python.org/download/releases/2.7.6/)
 
